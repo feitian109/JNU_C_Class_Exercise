@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main()
-
 {
     char ch, c1, c2;
 
@@ -21,11 +20,8 @@ int main()
         c2 -= 26;
 
     putchar(c1);
-
     putchar(ch);
-
     putchar(c2);
-
     putchar('\n');
 
     return 0;

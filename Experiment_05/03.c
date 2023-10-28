@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-main()
-
+int main()
 {
     int m;
 
@@ -58,4 +57,6 @@ main()
         printf("Dec");
         break;
     }
+
+    return 0;
 }

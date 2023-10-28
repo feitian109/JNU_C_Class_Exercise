@@ -1,9 +1,7 @@
 #include <stdio.h>
 
-main()
-
+int main()
 {
-
     int x, y, t;
 
     printf("请输入 x,y:\n", x, y);

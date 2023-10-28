@@ -7,6 +7,6 @@ int main()
 {
     cout << "input a character(A~Z):" << endl;
     cin >> a;
-    b = (a + 'Y' - 2*'A') % 26 + 'A';
+    b = (a + 'Y' - 2 * 'A') % 26 + 'A';
     cout << a << "->" << b;
 }
