@@ -3,5 +3,5 @@
 /.cph
 
 # files
-/.doc
-/.exe
+/*.doc
+/*.exe
