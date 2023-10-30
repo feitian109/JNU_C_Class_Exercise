@@ -1,5 +1,3 @@
-This is a Repositories stored JNU(Jiang Nan University)'s basic C class exerice's answer, which is written in C or Cpp.
+该仓库用来存放本人所写的 江南大学C语言程序设计 课程的答案。
 
-I can't make sure that every code can pass the csonline oj. If you find a bug, you can create a issue or pull request.
-
-I'm sorry for the less comments in the source code. But I'm sure you can understand it by yourself.
+注意答案中不包含注释，部分题目使用了 C++ 。
