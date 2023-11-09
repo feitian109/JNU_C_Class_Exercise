@@ -5,7 +5,7 @@ char hex[100000];
 
 int main()
 {
-    scanf("%s", &hex);
+    scanf("%s", hex);
     printf("%ld", strtol(hex, NULL, 16));
     return 0;
 }
