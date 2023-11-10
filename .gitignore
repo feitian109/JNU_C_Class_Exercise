@@ -2,6 +2,7 @@
 /.vscode
 */.vscode
 /.cph
+*/.cph
 
 # files
 *.doc
