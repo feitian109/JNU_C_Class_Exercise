@@ -3,9 +3,7 @@
 #define M 4
 
 int main()
-
 {
-
     int i, j, k, flag1, flag2, a[N][M], max, maxj;
 
     for (i = 0; i < N; i++)
