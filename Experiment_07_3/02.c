@@ -23,7 +23,7 @@ int main()
             printf("找到位置为：%d\n", low + 1);
             return 0;
         }
-        
+
         if (a[mid] > k)
             high = mid;
         else
